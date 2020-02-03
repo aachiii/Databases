@@ -1,0 +1,1 @@
+It is an api which enable website interact with database. Test and Outputs are shown in the screenshots.
